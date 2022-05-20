@@ -7,6 +7,7 @@
 - 💼 Working at FreshPortal software.
 
 ## ⚒️ Technologies & Tools
+<!-- <img src="https://img.shields.io/badge/Editor-VsCode-info?style=flat&logo=VisualStudioCode&logoColor=007ACC&color=324f62"> -->
 
 ![](https://img.shields.io/badge/Code-JavaScript-info?style=flat&logo=javascript&logoColor=F7DF1E&color=324f62)
 ![](https://img.shields.io/badge/Code-TypeScript-info?style=flat&logo=TypeScript&logoColor=3178C6&color=324f62)
@@ -36,9 +37,9 @@
 
 
 ## 📈 Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian" />
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />
 
 <!-- 
 Get colors 
