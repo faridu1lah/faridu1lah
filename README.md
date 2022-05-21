@@ -2,9 +2,9 @@
 
 # 👋 Hello, World!
 ## My name is Faridullah Khorshid and I'm a Software Engineer
-- 🌍 From the Netherlands
-- 👨‍🎓 Student at Hogeschool van Amsterdam (HVA)
-- 💼 Working at FreshPortal software.
+- 🌍 From the Netherlands.
+- 👨‍🎓 Student at Hogeschool van Amsterdam (HvA).
+- 💼 Working at FreshPortal Software.
 
 ## ⚒️ Technologies & Tools
 <!-- <img src="https://img.shields.io/badge/Editor-VsCode-info?style=flat&logo=VisualStudioCode&logoColor=007ACC&color=324f62"> -->
