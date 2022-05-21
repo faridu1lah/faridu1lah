@@ -41,9 +41,13 @@
 |:-:|:-:|
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | -->
 
-| | |
---|--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />  
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|
+|---|---|
+
+
+<!-- |---|---|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />| -->
 
 <!-- 
 Get colors 
