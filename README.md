@@ -36,21 +36,14 @@
 ## 📚 Learning
 ![](https://img.shields.io/badge/Code-React-info?style=flat&logo=React&logoColor=61DAFB&color=324f62)
 
-
 ## 📈 Stats
 
 <!-- <div><style>
 th{padding:0 1px;border:0;}table{border:0;}
 </style></div> -->
-<table>
-<tr>
-<th style="padding: 0;">Test</th>
-<th style="padding: 0;">TestS</th>
-</tr>
-</table>
 
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|
-|---|---| -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridullahKhorshid&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridullahKhorshid&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|
+|---|---|
 
 
 <!-- 
