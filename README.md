@@ -1,9 +1,9 @@
-[![Header](https://raw.githubusercontent.com/FaridullahKhorshid/FaridullahKhorshid/master/banner.jpg "Banner")](https://www.faridullah.com/)
+[![Header](https://raw.githubusercontent.com/FaridullahKhorshid/FaridullahKhorshid/master/banner.png "Banner")](https://www.faridullah.com/)
 
 # 👋 Hello, World!
 ## My name is Faridullah Khorshid and I'm a Software Engineer.
 - 👶 Born in Afghanistan 🇦🇫
-- 🌍 Leving in the Netherlands 🇳🇱
+- 🌍 Living in the Netherlands 🇳🇱
 - 👨‍🎓 Student at Hogeschool van Amsterdam (HvA).
 - 💼 Working at FreshPortal Software.
 
