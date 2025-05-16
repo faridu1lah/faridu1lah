@@ -42,7 +42,7 @@
 th{padding:0 1px;border:0;}table{border:0;}
 </style></div> -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=farid1lah&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid1lah&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=faridu1lah&show_icons=true&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridu1lah&layout=compact&theme=prussian&bg_color=fff&line_height=20&title_color=324f62&icon_color=324f62&hide_border=true" />|
 |---|---|
 
 
